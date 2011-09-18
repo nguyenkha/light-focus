@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LightFocus", "LightFocus\LightFocus.vcproj", "{4FB08F3D-1094-4893-B069-13985331DC05}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KeyHook", "KeyHook\KeyHook.vcproj", "{2E1E17F2-1448-44BF-AEE0-0FF18FA0664F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FB08F3D-1094-4893-B069-13985331DC05}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4FB08F3D-1094-4893-B069-13985331DC05}.Debug|Win32.Build.0 = Debug|Win32
+		{4FB08F3D-1094-4893-B069-13985331DC05}.Release|Win32.ActiveCfg = Release|Win32
+		{4FB08F3D-1094-4893-B069-13985331DC05}.Release|Win32.Build.0 = Release|Win32
+		{2E1E17F2-1448-44BF-AEE0-0FF18FA0664F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2E1E17F2-1448-44BF-AEE0-0FF18FA0664F}.Debug|Win32.Build.0 = Debug|Win32
+		{2E1E17F2-1448-44BF-AEE0-0FF18FA0664F}.Release|Win32.ActiveCfg = Release|Win32
+		{2E1E17F2-1448-44BF-AEE0-0FF18FA0664F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
